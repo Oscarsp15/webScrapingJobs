@@ -23,8 +23,8 @@ Primero, clona este repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tu-usuario/bot-empleos.git
-cd bot-empleos
-'''
+cd bot-empleos```
+
 ### 2. Crear un entorno virtual
 
 Es recomendable crear un entorno virtual para manejar las dependencias del proyecto sin interferir con otros proyectos en tu sistema.
