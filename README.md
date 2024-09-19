@@ -23,7 +23,8 @@ Primero, clona este repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tu-usuario/bot-empleos.git
-cd bot-empleos ```
+cd bot-empleos
+  ```
 
 ### 2. Crear un entorno virtual
 
@@ -33,20 +34,21 @@ Es recomendable crear un entorno virtual para manejar las dependencias del proye
 
 ```bash
 python -m venv env
-.\env\Scripts\activate```
-
+.\env\Scripts\activate
+```
 - En **macOS\Linux**:
 ```bash
 python3 -m venv env
-source env/bin/activate```
+source env/bin/activate
+```
 
 ### 3. Instalar las dependencias
 
 Con el entorno virtual activado, instala las dependencias del proyecto utilizando el archivo `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```
 ### Explicación:
 
 - **`pip install -r requirements.txt`**: Instala todas las dependencias listadas en `requirements.txt`.
