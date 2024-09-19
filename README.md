@@ -12,7 +12,7 @@ Este proyecto es un bot que realiza scraping de sitios web de empleos como [Bume
 
 Asegúrate de tener instalado lo siguiente antes de comenzar:
 
-- Python 3.x
+- Python 3.12.x 
 - Git
 
 ## Instalación
